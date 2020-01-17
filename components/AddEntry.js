@@ -21,6 +21,7 @@ import { connect } from "react-redux";
 import { addEntry } from "../actions";
 import { purple, white } from "../utils/colors";
 
+
 function SubmitBtn({ onPress }) {
   return (
     <TouchableOpacity
