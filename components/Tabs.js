@@ -47,5 +47,5 @@ export default function Tabs() {
 
   const Tabs = createAppContainer(TabNavigator)
 
-  return (Tabs)
+  return <Tabs></Tabs>
 }
